@@ -1,0 +1,78 @@
+{
+  "homepage": "https://saifaliabdulhey.github.io/Expensify",
+  "name": "expensify",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-15": "^1.4.3",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "enzyme-to-json": "^3.6.2",
+    "express": "^4.17.3",
+    "firebase": "4.2.0",
+    "history": "4.7.2",
+    "jest": "^27.5.1",
+    "live-server": "^1.2.1",
+    "moment": "^2.29.1",
+    "node-sass": "^7.0.1",
+    "normalize.css": "^8.0.1",
+    "numeral": "^2.0.6",
+    "raf": "^3.4.1",
+    "react": "^17.0.2",
+    "react-addons-shallow-compare": "^15.6.3",
+    "react-dates": "^21.8.0",
+    "react-dom": "^17.0.2",
+    "react-modal": "^3.14.4",
+    "react-moment": "^1.1.1",
+    "react-redux": "^7.2.6",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "5.0.0",
+    "react-test-renderer": "^17.0.2",
+    "redux": "^4.1.2",
+    "redux-mock-store": "1.2.3",
+    "redux-thunk": "^2.4.1",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "uuid": "^3.1.0",
+    "validator": "^13.7.0",
+    "web-vitals": "^2.1.2",
+    "webpack": "^5.70.0",
+    "webpack-dev-server": "^4.7.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "cross-env": "5.0.5",
+    "gh-pages": "^3.2.3"
+  }
+}

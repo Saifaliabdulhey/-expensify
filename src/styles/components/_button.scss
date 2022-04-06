@@ -1,0 +1,24 @@
+.button {
+    background: $blue;
+    border: none;
+    color: white;
+    font-size: $font-size-larg;
+    font-weight: 300;
+    display: inline-block;
+    padding: $s-size;
+    border-radius:3px;
+    text-decoration: none;
+    line-height: 1;
+}
+.button:hover {
+    background-color: #049eeb;
+    transition: all 300ms ease-in-out;
+}
+
+.button--link {
+    background: none;
+}
+
+.button-cb {
+    margin-top:$s-size;
+}
