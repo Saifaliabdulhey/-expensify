@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Expensify/static/css/main.a34b727f.css",
+    "main.js": "/Expensify/static/js/main.905b2c43.js",
+    "static/js/787.d040f19e.chunk.js": "/Expensify/static/js/787.d040f19e.chunk.js",
+    "static/media/bg.jpg": "/Expensify/static/media/bg.b9f65c5d38a200d812df.jpg",
+    "static/media/loader.gif": "/Expensify/static/media/loader.1bcd0c30e2c0c73f7db9.gif",
+    "index.html": "/Expensify/index.html",
+    "main.a34b727f.css.map": "/Expensify/static/css/main.a34b727f.css.map",
+    "main.905b2c43.js.map": "/Expensify/static/js/main.905b2c43.js.map",
+    "787.d040f19e.chunk.js.map": "/Expensify/static/js/787.d040f19e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34b727f.css",
+    "static/js/main.905b2c43.js"
+  ]
+}
